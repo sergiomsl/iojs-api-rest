@@ -6,12 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "sergio segovia",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiomsl/empleados-reactjs-.git"
+  },
+  "author": "Sergio Segovia <sergio@voilaservicios.com",
   "license": "MIT",
   "dependencies": {
     "body": "^5.1.0",
     "course": "0.0.1",
-    "mongoose": "^4.1.9",
+    "mongoose": "^4.1.9"
   },
   "devDependencies": {
     "babel": "^5.8.23"
